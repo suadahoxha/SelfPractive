@@ -6,7 +6,7 @@ public class SelfPractice {
 		System.out.println("GitHub prova");
 		System.out.println("GitHub ikinci prova");
 
-		System.out.println("GitHub ucuncu prova cakisma denemsi");
+		System.out.println("we want to make secand conflict");
 
 		
 
